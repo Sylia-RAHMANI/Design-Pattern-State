@@ -1,0 +1,7 @@
+Explication du comportement de l'application:
+ÉTEINT      -allumer->   ALLUMÉ
+ALLUMÉ      -démarré->   DÉMARRÉ
+ALLUMÉ      -éteindre->  ÉTEINDRE
+DÉMARRÉ     -arrêter->    ARRÊTÉ
+ARRÊTÉ      -éteindre->   ÉTEINT
+ARRÊTÉ      -démarré->    DÉMARRÉ
